@@ -1,5 +1,5 @@
 
-  # Title
+  # Professional README Generator
   ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Table of contents
   1. [Description](#description)
@@ -10,15 +10,15 @@
   6. [License](#license)
   7. [Questions](#questions)
   ## Description
-  Description
+  An application that generates a professional README based on the user's inputs.
   ## Installation instructions
-  Installation
+  In order to install this application, clone the repository and then type 'npm i' into the terminal.
   ## Usage information 
-  Usage
+  To use this application, type 'node index.js' into the terminal and then proceed to answer the questions provided.
   ## Contributing guidelines 
-  Contribution
+  There are no contribution guidelines for this application.
   ## Test instructions
-  Instructions
+  There are no test instructions for this application.
   ## License
   
   This application is covered under the MIT License. Here is a link for more details:
@@ -26,4 +26,4 @@
   ## Questions
   If you have any quesitons about the application then please contact me via github or email.
   Github - https://github.com/Humayra-Hayern
-  Email address - hayern777@hotmail.com
+  Email address - hayern786@hotmail.com
